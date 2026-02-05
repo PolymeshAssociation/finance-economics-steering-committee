@@ -2,7 +2,7 @@
 A directory to store documentation and meeting outcomes for the Polymesh Finance & Economics Steering Committee.
 
 ## Charter
-The Polymesh Finance & Economics Steering Committee is operated under the [FESC Charter](https://github.com/PolymeshAssociation/finance-economics-steering-committee/Polymesh-FESC-Charter-Final-29Jan2026.pdf).
+The Polymesh Finance & Economics Steering Committee is operated under the [FESC Charter](https://github.com/PolymeshAssociation/finance-economics-steering-committee/blob/main/Polymesh-FESC-Charter-Final-29Jan2026.pdf).
 
 ## Meetings
 See the [Calendar of Public Meetings](https://insert.google.calendar.link.here) for the next meeting and dial-in details.
