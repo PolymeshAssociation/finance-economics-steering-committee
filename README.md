@@ -8,7 +8,7 @@ The Polymesh Finance & Economics Steering Committee is operated under the [FESC 
 See the [Calendar of Public Meetings](https://insert.google.calendar.link.here) for the next meeting and dial-in details.
 
 ## Community Participation
-All meetings are open to any members of the community wishing to observe. Community observers may attend and listen but may not vote and are not members of the FESC. Observers may contribute to discussion at the discretion of the Chair, either by invitation or by politely requesting time to speak (e.g., via an agenda item, “raise hand,” or meeting chat). The Chair may limit observer participation to ensure meetings remain orderly and decisions can be made efficiently.
+All meetings are open to any members of the community wishing to observe. Community observers may attend and listen but may not vote and are not members of the FESC. Observers may contribute to discussion at the discretion of the Chair, either by invitation or by politely requesting time to speak (e.g., via an agenda item, “raise hand,” or meeting chat). The Chair may limit observer participation to ensure meetings remain orderly and decisions can be made efficiently. The Chair may hold closed sessions for sensitive matters (e.g., security of treasury controls, vendor commercials, non-public financial details).
 
 ### Meeting Agendas
 The agendas will be posted on [Discord](https://discord.gg/insert-discord-channel-id-here) and recordings will be posted to the [Polymesh Video channel](https://insert-youtube-or-google-drive-link-here).
