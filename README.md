@@ -10,8 +10,10 @@ All meetings are open to any members of the community wishing to observe. Commun
 ### Meeting Notes
 Meeting notes are tracked as comments on [issues]([https://github.com/PolymeshAssociation/finance-economics-steering-committee/issues) in this repository.
 
-### Finance & Economics Steering Committee Members
+### Finance & Economics Steering Committee 
 
+- Natalie Hirsch (Chair)
 - [Martin Halford](https://github.com/martinhalford)
-- [Natalie Hirsch](https://github.com/insert-url-here) (Chair)
-- [Orlando Ismael](https://github.com/insert-url-here)
+- Orlando Ishmael 
+- [Robert Jakabosky](https://github.com/Neopallium)
+- [Francis O'Brien](https://github.com/F-OBrien)
