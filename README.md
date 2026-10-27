@@ -13,7 +13,6 @@ Meeting notes are tracked as comments on [issues]([https://github.com/PolymeshAs
 ### Finance & Economics Steering Committee 
 
 - Natalie Hirsch (Chair)
-- [Martin Halford](https://github.com/martinhalford)
 - Orlando Ishmael 
 - [Robert Jakabosky](https://github.com/Neopallium)
 - [Francis O'Brien](https://github.com/F-OBrien)
